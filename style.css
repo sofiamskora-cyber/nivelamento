@@ -1,0 +1,13 @@
+body{
+
+    background-color: brown;
+
+}
+
+header{
+
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: brown;
+}
